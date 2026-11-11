@@ -6,88 +6,65 @@
   />
 </p>
 
-<h3 align="center">COMPUTER ENGINEERING STUDENT</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
-  <code>SOFTWARE DEVELOPMENT</code> · <code>NETWORKING</code> · <code>CYBERSECURITY</code>
+  Software Development · Computer Networking · Cybersecurity
 </p>
 
 <p align="center">
-  <samp>Exploring technology, one system at a time.</samp>
+  <sub>Learning, building, and exploring technology.</sub>
 </p>
 
 ---
 
-## `01` — ABOUT ME
+## About Me
 
-```bash
-$ whoami
+I'm a Computer Engineering student interested in software development, computer networks, and cybersecurity.
 
-Computer Engineering student with an interest in
-understanding how technology works behind the scenes.
+I enjoy exploring how technology works, learning new concepts, and developing practical skills through hands-on experience.
 
-Learning through building, experimenting,
-troubleshooting, and breaking things along the way.
-```
-
-- Studying Computer Engineering.
+- Computer Engineering student.
 - Interested in software development and system architecture.
 - Exploring computer networking and cybersecurity.
-- Focused on practical learning and hands-on projects.
+- Learning through experimentation and personal projects.
 
-## `02` — TECH STACK & TOOLS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-181818?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-## `03` — CURRENTLY EXPLORING
-
-```text
-[01] Computer Networking
-[02] Linux & System Administration
-[03] Cybersecurity Fundamentals
-[04] Web Application Development
-[05] Backend Engineering
-```
-
-## `04` — PROJECTS
-
-```bash
-$ ls ./projects
-
-PLN-UIT-JBT-Dashboard/
-    > Internal performance dashboard prototype
-
-More projects are under development...
-```
-
-## `05` — GITHUB ACTIVITY
+## Technologies & Tools
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" />
 </p>
 
-## `06` — CONNECT
+## Currently Learning
+
+- Computer Networking
+- Linux & System Administration
+- Cybersecurity Fundamentals
+- Web Application Development
+- Backend Engineering
+
+## Projects
+
+<p align="center">
+  <sub>Nothing to showcase just yet.</sub>
+  <br/>
+  <strong>COMING SOON.</strong>
+</p>
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/TommmJr">
-    <img src="https://img.shields.io/badge/GitHub-TommmJr-181818?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-TommmJr-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </p>
 
-<p align="center">
-  <samp>BUILD IN SILENCE. LEARN CONSTANTLY.</samp>
-</p>
+---
 
 <p align="center">
-  <sub>STATUS: ONLINE · KEEP EXPLORING_</sub>
+  <sub> SLEEP </sub>
 </p>
