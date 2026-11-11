@@ -31,23 +31,11 @@
       <blockquote>
         <sub>Building reliable software, configuring network infrastructure, and securing systems through hands-on experimentation.</sub>
       </blockquote>
-      <p>
-        <img src="https://img.shields.io/badge/%20-88C0D0?style=flat-square" height="10" width="10" /> &nbsp;<strong>System Architecture</strong> => Clean backend &amp; service design.<br />
-        <img src="https://img.shields.io/badge/%20-81A1C1?style=flat-square" height="10" width="10" /> &nbsp;<strong>Network Engineering</strong> => Routing, switching &amp; protocols.<br />
-        <img src="https://img.shields.io/badge/%20-8FBCBB?style=flat-square" height="10" width="10" /> &nbsp;<strong>Defensive Security</strong> => Hardening &amp; anomaly detection.<br />
-        <img src="https://img.shields.io/badge/%20-5E81AC?style=flat-square" height="10" width="10" /> &nbsp;<strong>Practical Labs</strong> => Real-world system troubleshooting.
-      </p>
     </td>
     <td width="50%" valign="top">
       <blockquote>
         <sub>Deepening core engineering fundamentals across operating systems, network layers, and server-side workflows.</sub>
       </blockquote>
-      <p>
-        <img src="https://img.shields.io/badge/%20-88C0D0?style=flat-square" height="10" width="10" /> &nbsp;<strong>Computer Networking</strong> => Topologies &amp; packet analysis.<br />
-        <img src="https://img.shields.io/badge/%20-81A1C1?style=flat-square" height="10" width="10" /> &nbsp;<strong>Linux &amp; SysAdmin</strong> => Shell, services &amp; system tuning.<br />
-        <img src="https://img.shields.io/badge/%20-8FBCBB?style=flat-square" height="10" width="10" /> &nbsp;<strong>Cybersecurity</strong> => Threat modeling &amp; network defense.<br />
-        <img src="https://img.shields.io/badge/%20-5E81AC?style=flat-square" height="10" width="10" /> &nbsp;<strong>Backend Engineering</strong> => Databases, APIs &amp; server logic.
-      </p>
     </td>
   </tr>
   <tr>
