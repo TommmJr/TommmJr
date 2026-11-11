@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <sub>▚▚▚ TOMMMJR ▚▚▚</sub>
+  <sub> TOMMMJR </sub>
 </h1>
 
 <h3 align="center">
@@ -14,9 +14,6 @@
   <code>SOFTWARE DEVELOPMENT</code> · <code>COMPUTER NETWORKING</code> · <code>CYBERSECURITY</code>
 </p>
 
-<p align="center">
-  <sub>Learning · Building · Exploring</sub>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-000000?style=for-the-badge&labelColor=000000" alt="Status: Learning" />
