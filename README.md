@@ -64,25 +64,6 @@
 
 ---
 
-## ▚ Currently Learning
-
-```text
-┌─────────────────────────────┬─────────────────────────────┐
-│  COMPUTER NETWORKING        │  LINUX & SYSTEM ADMIN       │
-├─────────────────────────────┼─────────────────────────────┤
-│  CYBERSECURITY FUNDAMENTALS │  WEB APPLICATION DEV        │
-├─────────────────────────────┼─────────────────────────────┤
-│  BACKEND ENGINEERING        │  PRACTICAL PROJECTS         │
-└─────────────────────────────┴─────────────────────────────┘
-```
-
-- Computer Networking  
-- Linux & System Administration  
-- Cybersecurity Fundamentals  
-- Web Application Development  
-- Backend Engineering  
-
----
 
 ## ▚ Projects
 
