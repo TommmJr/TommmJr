@@ -6,7 +6,6 @@
 
 <!-- HERO HEADER & NORDIC TAGS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/NORDIC_EDITION-2E3440?style=flat-square&logo=linux&logoColor=88C0D0" alt="Nordic" />
   <img src="https://img.shields.io/badge/STATUS-BUILDING_FUNDAMENTALS-3B4252?style=flat-square&labelColor=2E3440&color=88C0D0" alt="Status" />
   
   <h3>Computer Engineering Student</h3>
@@ -128,5 +127,4 @@
   <img src="https://img.shields.io/badge/%20-88C0D0?style=flat-square" alt="nord8" />
   <img src="https://img.shields.io/badge/%20-81A1C1?style=flat-square" alt="nord9" />
   <img src="https://img.shields.io/badge/%20-5E81AC?style=flat-square" alt="nord10" />
-  <p><sub>Quiet nights &nbsp;·&nbsp; Arctic slate &nbsp;·&nbsp; Continuous learning</sub></p>
 </div>
