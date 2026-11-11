@@ -103,7 +103,3 @@
     <img src="https://img.shields.io/badge/GITHUB-TommmJr-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
   </a>
 </p>
-
-<p align="center">
-  <sub>▚ BUILD ▚ LEARN ▚ REPEAT ▚</sub>
-</p>
