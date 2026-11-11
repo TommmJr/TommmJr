@@ -4,17 +4,23 @@
 
 <br />
 
+<!-- ANIMATED HERO SECTION WITH NORDIC BACKGROUND PILLS -->
 <div align="center">
-  <h3>Computer Engineering Student</h3>
+  <a href="https://github.com/TommmJr">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=ECEFF4&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Systems+%C2%B7+Networks+%C2%B7+Cybersecurity" alt="Typing SVG" />
+  </a>
   <p>
-    <code>Software Development</code> &nbsp;·&nbsp; 
-    <code>Computer Networking</code> &nbsp;·&nbsp; 
-    <code>Cybersecurity</code>
+    <img src="https://img.shields.io/badge/Software_Development-2E3440?style=flat-square&logoColor=88C0D0" alt="Software Development" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Computer_Networking-2E3440?style=flat-square&logoColor=81A1C1" alt="Computer Networking" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Cybersecurity-2E3440?style=flat-square&logoColor=8FBCBB" alt="Cybersecurity" />
   </p>
 </div>
 
 <br />
 
+<!-- UNIFIED BENTO GRID TABLE -->
 <table>
   <tr>
     <th width="50%" align="left">ABOUT ME</th>
@@ -22,22 +28,26 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p>I am a <strong>Computer Engineering student</strong> focused on how systems are architected, how software is built, and how networks are secured.</p>
-      <ul>
-        <li><strong>System Architecture</strong> => Designing clean, maintainable applications and backend services.</li>
-        <li><strong>Network Infrastructure</strong> => Exploring routing, switching, and physical-to-application layer protocols.</li>
-        <li><strong>Defensive Security</strong> => Studying system hardening, anomaly detection, and secure practices.</li>
-        <li><strong>Hands-On Lab</strong> => Learning through real environment configuration and troubleshooting.</li>
-      </ul>
+      <blockquote>
+        <sub>Building reliable software, configuring network infrastructure, and securing systems through hands-on experimentation.</sub>
+      </blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/%20-88C0D0?style=flat-square" height="10" width="10" /> &nbsp;<strong>System Architecture</strong> — Clean backend &amp; service design.<br />
+        <img src="https://img.shields.io/badge/%20-81A1C1?style=flat-square" height="10" width="10" /> &nbsp;<strong>Network Engineering</strong> — Routing, switching &amp; protocols.<br />
+        <img src="https://img.shields.io/badge/%20-8FBCBB?style=flat-square" height="10" width="10" /> &nbsp;<strong>Defensive Security</strong> — Hardening &amp; anomaly detection.<br />
+        <img src="https://img.shields.io/badge/%20-5E81AC?style=flat-square" height="10" width="10" /> &nbsp;<strong>Practical Labs</strong> — Real-world system troubleshooting.
+      </p>
     </td>
     <td width="50%" valign="top">
-      <p>Focusing on core infrastructure, operating systems, and backend engineering workflows:</p>
-      <ul>
-        <li><strong>Computer Networking</strong><br /><sub>Topologies, routing protocols, and packet analysis.</sub></li>
-        <li><strong>Linux &amp; System Administration</strong><br /><sub>Shell environments, service management, and system tuning.</sub></li>
-        <li><strong>Cybersecurity Fundamentals</strong><br /><sub>Threat modeling, network defense, and system auditing.</sub></li>
-        <li><strong>Web &amp; Backend Engineering</strong><br /><sub>Server-side architecture, relational databases, and REST APIs.</sub></li>
-      </ul>
+      <blockquote>
+        <sub>Deepening core engineering fundamentals across operating systems, network layers, and server-side workflows.</sub>
+      </blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/%20-88C0D0?style=flat-square" height="10" width="10" /> &nbsp;<strong>Computer Networking</strong> — Topologies &amp; packet analysis.<br />
+        <img src="https://img.shields.io/badge/%20-81A1C1?style=flat-square" height="10" width="10" /> &nbsp;<strong>Linux &amp; SysAdmin</strong> — Shell, services &amp; system tuning.<br />
+        <img src="https://img.shields.io/badge/%20-8FBCBB?style=flat-square" height="10" width="10" /> &nbsp;<strong>Cybersecurity</strong> — Threat modeling &amp; network defense.<br />
+        <img src="https://img.shields.io/badge/%20-5E81AC?style=flat-square" height="10" width="10" /> &nbsp;<strong>Backend Engineering</strong> — Databases, APIs &amp; server logic.
+      </p>
     </td>
   </tr>
   <tr>
