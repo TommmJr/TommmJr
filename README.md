@@ -1,78 +1,93 @@
  <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539"
+    src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1"
     width="100%"
-    alt="WitchCoder pixel art banner"
+    alt="Midnight Owl - Monochrome Pixel Art"
   />
 </p>
 
-<h3 align="center">Computer Engineering Student | Developer in Progress</h3>
+<h3 align="center">COMPUTER ENGINEERING STUDENT</h3>
 
 <p align="center">
-  Exploring how software, networks, and security work together.
+  <code>SOFTWARE DEVELOPMENT</code> · <code>NETWORKING</code> · <code>CYBERSECURITY</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software_Development-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-Networking-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-8B5CF6?style=flat-square" />
+  <samp>Exploring technology, one system at a time.</samp>
 </p>
 
 ---
 
-## About Me
+## `01` — ABOUT ME
 
-I'm a Computer Engineering student interested in understanding how technology works, from software applications to computer networks and system security.
+```bash
+$ whoami
 
-I enjoy learning by building things, experimenting with different technologies, and solving practical problems.
+Computer Engineering student with an interest in
+understanding how technology works behind the scenes.
+
+Learning through building, experimenting,
+troubleshooting, and breaking things along the way.
+```
 
 - Studying Computer Engineering.
 - Interested in software development and system architecture.
 - Exploring computer networking and cybersecurity.
-- Learning through hands-on projects and experimentation.
+- Focused on practical learning and hands-on projects.
 
-## Tech Stack & Tools
+## `02` — TECH STACK & TOOLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,linux,docker,git,github" />
+  <img src="https://img.shields.io/badge/MySQL-181818?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-## Currently Exploring
+## `03` — CURRENTLY EXPLORING
 
-- Computer Networking & Network Administration
-- Linux & System Administration
-- Cybersecurity Fundamentals
-- Web Application Development
-- Backend Engineering
+```text
+[01] Computer Networking
+[02] Linux & System Administration
+[03] Cybersecurity Fundamentals
+[04] Web Application Development
+[05] Backend Engineering
+```
 
-## GitHub Statistics
+## `04` — PROJECTS
+
+```bash
+$ ls ./projects
+
+PLN-UIT-JBT-Dashboard/
+    > Internal performance dashboard prototype
+
+More projects are under development...
+```
+
+## `05` — GITHUB ACTIVITY
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TommmJr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommmJr&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=TommmJr&theme=tokyonight&hide_border=true"
-    width="65%"
-  />
-</p>
-
-## Connect
+## `06` — CONNECT
 
 <p align="center">
   <a href="https://github.com/TommmJr">
-    <img src="https://img.shields.io/badge/GitHub-TommmJr-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-TommmJr-181818?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Building, breaking, learning, and building again.</sub>
+  <samp>BUILD IN SILENCE. LEARN CONSTANTLY.</samp>
+</p>
+
+<p align="center">
+  <sub>STATUS: ONLINE · KEEP EXPLORING_</sub>
 </p>
