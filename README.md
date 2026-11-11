@@ -1,44 +1,55 @@
  <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Gavin&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Learning.%20Building.%20Exploring.&descAlignY=60&descSize=16"
+    src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539"
     width="100%"
+    alt="WitchCoder pixel art banner"
   />
 </p>
 
-<h3 align="center">Hi, I'm Gavin</h3>
+<h3 align="center">Computer Engineering Student | Developer in Progress</h3>
 
 <p align="center">
-  An aspiring developer and Computer Engineering student interested in computer networks and currently learning cybersecurity.
+  Exploring how software, networks, and security work together.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software_Development-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-Networking-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-8B5CF6?style=flat-square" />
+</p>
+
+---
 
 ## About Me
 
-- Computer Engineering student.
-- Interested in software development and computer networking.
-- Currently exploring cybersecurity fundamentals.
-- Learning through hands-on projects and continuous practice.
+I'm a Computer Engineering student interested in understanding how technology works, from software applications to computer networks and system security.
 
-## Areas of Interest
+I enjoy learning by building things, experimenting with different technologies, and solving practical problems.
 
-- Software Development
-- Computer Networking
-- Cybersecurity
+- Studying Computer Engineering.
+- Interested in software development and system architecture.
+- Exploring computer networking and cybersecurity.
+- Learning through hands-on projects and experimentation.
 
-## Currently Learning
+## Tech Stack & Tools
 
-- Networking Fundamentals
-- Linux and System Administration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,tailwind,linux,docker,git,github,vscode" />
+</p>
+
+## Currently Exploring
+
+- Computer Networking & Network Administration
+- Linux & System Administration
 - Cybersecurity Fundamentals
-
-## Projects
-
-Coming soon. Currently working on personal projects to improve my technical skills.
+- Web Application Development
+- System Design & Backend Engineering
 
 ## GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TommmJr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=TommmJr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
   />
   <img
@@ -47,14 +58,21 @@ Coming soon. Currently working on personal projects to improve my technical skil
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=TommmJr&theme=tokyonight&hide_border=true"
+    width="65%"
+  />
+</p>
+
 ## Connect
 
 <p align="center">
   <a href="https://github.com/TommmJr">
-    <img src="https://img.shields.io/badge/GitHub-TommmJr-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-TommmJr-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Learning something new, one step at a time.</sub>
+  <sub>Building, breaking, learning, and building again.</sub>
 </p>
