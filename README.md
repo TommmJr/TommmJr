@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Gavin
 
-<!--
-**TommmJr/TommmJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring developer and Computer Engineering student interested in computer networks and currently learning cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Engineering student.
+- Interested in software development and computer networking.
+- Currently exploring cybersecurity fundamentals.
+- Learning through hands-on projects and continuous practice.
+
+## Areas of Interest
+
+- Software Development
+- Computer Networking
+- Cybersecurity
+
+## Currently Learning
+
+- Networking Fundamentals
+- Linux and System Administration
+- Cybersecurity Fundamentals
+
+## Projects
+
+Coming soon. Currently working on personal projects to improve my technical skills.
+
+## Connect
+
+- GitHub: [@TommmJr](https://github.com/TommmJr)
