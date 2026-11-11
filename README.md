@@ -34,7 +34,7 @@ I enjoy learning by building things, experimenting with different technologies, 
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,tailwind,linux,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux,docker,git,github" />
 </p>
 
 ## Currently Exploring
@@ -43,7 +43,7 @@ I enjoy learning by building things, experimenting with different technologies, 
 - Linux & System Administration
 - Cybersecurity Fundamentals
 - Web Application Development
-- System Design & Backend Engineering
+- Backend Engineering
 
 ## GitHub Statistics
 
