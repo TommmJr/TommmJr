@@ -24,10 +24,10 @@
     <td width="50%" valign="top">
       <p>I am a <strong>Computer Engineering student</strong> focused on how systems are architected, how software is built, and how networks are secured.</p>
       <ul>
-        <li><strong>System Architecture</strong> — Designing clean, maintainable applications and backend services.</li>
-        <li><strong>Network Infrastructure</strong> — Exploring routing, switching, and physical-to-application layer protocols.</li>
-        <li><strong>Defensive Security</strong> — Studying system hardening, anomaly detection, and secure practices.</li>
-        <li><strong>Hands-On Lab</strong> — Learning through real environment configuration and troubleshooting.</li>
+        <li><strong>System Architecture</strong> => Designing clean, maintainable applications and backend services.</li>
+        <li><strong>Network Infrastructure</strong> => Exploring routing, switching, and physical-to-application layer protocols.</li>
+        <li><strong>Defensive Security</strong> => Studying system hardening, anomaly detection, and secure practices.</li>
+        <li><strong>Hands-On Lab</strong> => Learning through real environment configuration and troubleshooting.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
